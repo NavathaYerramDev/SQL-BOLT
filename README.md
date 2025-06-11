@@ -38,6 +38,7 @@ This project showcases **SQL-driven database creation and management**, providin
 - 📊 **SQL Query Optimization** – Enhancing data retrieval efficiency  
 - 🏗 **Database Management** – Structuring tables & relationships  
 - 🔎 **Data Analysis & Reporting** – Extracting meaningful trends  
+![image](https://github.com/user-attachments/assets/d64c93ee-c952-4464-8998-9b8f509ca03d)
 
 ---
 
